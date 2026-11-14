@@ -1,0 +1,632 @@
+[
+{
+"a": "Jetonlu telefon",
+"n": "Cepte jeton, kulübe önünde sıra",
+"wp": "Payphone",
+"wl": "en",
+"b": 1980,
+"s": 1996
+},
+{
+"a": "Çevirmeli telefon",
+"n": "Numarayı parmakla çevirirdik",
+"wp": "Rotary dial",
+"wl": "en",
+"b": 1980,
+"s": 1995
+},
+{
+"a": "Siyah beyaz televizyon",
+"n": "Tek kanal TRT, akşam yayını",
+"wp": "Television set",
+"wl": "en",
+"b": 1980,
+"s": 1988
+},
+{
+"a": "Pikap ve plak",
+"n": "45'likler, longplay'ler",
+"wp": "Phonograph record",
+"wl": "en",
+"b": 1980,
+"s": 1990
+},
+{
+"a": "Kaset",
+"n": "Kalemle geri sarılan kasetler",
+"wp": "Cassette tape",
+"wl": "en",
+"b": 1980,
+"s": 2003
+},
+{
+"a": "Radyo-teyp",
+"n": "Omuzda taşınan müzik",
+"wp": "Boombox",
+"wl": "en",
+"b": 1981,
+"s": 1998
+},
+{
+"a": "Walkman",
+"n": "Kulaklıkta kendi müziğin",
+"wp": "Walkman",
+"wl": "en",
+"b": 1982,
+"s": 1998
+},
+{
+"a": "Daktilo",
+"n": "Dilekçeler, ödevler, mektuplar",
+"wp": "Typewriter",
+"wl": "en",
+"b": 1980,
+"s": 1995
+},
+{
+"a": "Video kaset (VHS)",
+"n": "Videocudan film kiralamak",
+"wp": "VHS",
+"wl": "en",
+"b": 1984,
+"s": 2004
+},
+{
+"a": "Atari",
+"n": "Evdeki ilk oyun makinesi",
+"wp": "Atari 2600",
+"wl": "en",
+"b": 1982,
+"s": 1990
+},
+{
+"a": "Commodore 64",
+"n": "Kasetten yüklenen oyunlar",
+"wp": "Commodore 64",
+"wl": "en",
+"b": 1984,
+"s": 1993
+},
+{
+"a": "Rubik küpü",
+"n": "Herkesin uğraştığı sabır küpü",
+"wp": "Rubik's Cube",
+"wl": "en",
+"b": 1980
+},
+{
+"a": "Hesap makineli saat",
+"n": "Bilekte hesap makinesi",
+"wp": "Calculator watch",
+"wl": "en",
+"b": 1982,
+"s": 1992
+},
+{
+"a": "Casio F-91W",
+"n": "Efsane dijital kol saati",
+"wp": "Casio F-91W",
+"wl": "en",
+"b": 1989
+},
+{
+"a": "Polaroid fotoğraf makinesi",
+"n": "Anında basılan fotoğraf",
+"wp": "Instant camera",
+"wl": "en",
+"b": 1980,
+"s": 2000
+},
+{
+"a": "Murat 124",
+"n": "Türkiye'nin ilk Tofaş'ı",
+"wp": "Tofaş Murat 124",
+"wl": "tr",
+"b": 1980,
+"s": 1995
+},
+{
+"a": "Tofaş Şahin",
+"n": "Doğan, Şahin, Kartal üçlüsü",
+"wp": "Tofaş Şahin",
+"wl": "tr",
+"b": 1985,
+"s": 2002
+},
+{
+"a": "Renault 12 Toros",
+"n": "Yolların vazgeçilmezi",
+"wp": "Renault 12",
+"wl": "en",
+"b": 1980,
+"s": 2000
+},
+{
+"a": "Anadol",
+"n": "Yerli otomobilimiz",
+"wp": "Anadol (otomobil)",
+"wl": "tr",
+"b": 1980,
+"s": 1991
+},
+{
+"a": "Atari salonu",
+"n": "Jetonla oynanan oyunlar",
+"wp": "Arcade cabinet",
+"wl": "en",
+"b": 1983,
+"s": 1998
+},
+{
+"a": "Game & Watch",
+"n": "Cep boy elektronik oyun",
+"wp": "Game & Watch",
+"wl": "en",
+"b": 1982,
+"s": 1990
+},
+{
+"a": "Renkli tüplü televizyon",
+"n": "TRT 1984'te tamamen renkli yayına geçti",
+"wp": "Cathode-ray tube",
+"wl": "en",
+"b": 1984,
+"s": 2008
+},
+{
+"a": "Uydu çanağı",
+"n": "Çatılarda çanak antenler",
+"wp": "Satellite dish",
+"wl": "en",
+"b": 1992
+},
+{
+"a": "Sega Mega Drive",
+"n": "Sonic ile gelen oyun çağı",
+"wp": "Sega Genesis",
+"wl": "en",
+"b": 1991,
+"s": 1998
+},
+{
+"a": "Family (Famicom)",
+"n": "Kasetli ev konsolu",
+"wp": "Nintendo Entertainment System",
+"wl": "en",
+"b": 1990,
+"s": 1998
+},
+{
+"a": "Game Boy",
+"n": "Avuç içinde Tetris",
+"wp": "Game Boy",
+"wl": "en",
+"b": 1990,
+"s": 2001
+},
+{
+"a": "Tetris oyuncağı (Brick Game)",
+"n": "Pazardan alınan elde oyun",
+"wp": "Brick Game",
+"wl": "en",
+"b": 1993,
+"s": 2002
+},
+{
+"a": "Tamagotchi",
+"n": "Bakılması gereken sanal hayvan",
+"wp": "Tamagotchi",
+"wl": "en",
+"b": 1997,
+"s": 2002
+},
+{
+"a": "Discman",
+"n": "Cepte CD, zıplayan şarkılar",
+"wp": "Discman",
+"wl": "en",
+"b": 1993,
+"s": 2004
+},
+{
+"a": "Çağrı cihazı",
+"n": "Bip bip, \"beni ara\"",
+"wp": "Pager",
+"wl": "en",
+"b": 1993,
+"s": 2000
+},
+{
+"a": "Telefon kartı",
+"n": "Kontörlü kartla kulübeden arama",
+"wp": "Telephone card",
+"wl": "en",
+"b": 1993,
+"s": 2008
+},
+{
+"a": "Motorola StarTAC",
+"n": "Kapaklı cep telefonu",
+"wp": "Motorola StarTAC",
+"wl": "en",
+"b": 1996,
+"s": 2000
+},
+{
+"a": "Nokia 5110",
+"n": "Yılan oyunlu ilk cep telefonları",
+"wp": "Nokia 5110",
+"wl": "en",
+"b": 1998,
+"s": 2001
+},
+{
+"a": "Nokia 3210",
+"n": "Değiştirilebilir kapaklar",
+"wp": "Nokia 3210",
+"wl": "en",
+"b": 1999,
+"s": 2003
+},
+{
+"a": "Disket",
+"n": "1,44 MB'lık hayat",
+"wp": "Floppy disk",
+"wl": "en",
+"b": 1988,
+"s": 2006
+},
+{
+"a": "Windows 95",
+"n": "Başlat düğmesiyle tanışma",
+"wp": "Windows 95",
+"wl": "en",
+"b": 1996,
+"s": 2001
+},
+{
+"a": "Çevirmeli modem",
+"n": "Hışırtıyla bağlanan internet",
+"wp": "Modem",
+"wl": "en",
+"b": 1997,
+"s": 2006
+},
+{
+"a": "PlayStation",
+"n": "Gri kutu, CD'li oyunlar",
+"wp": "PlayStation (console)",
+"wl": "en",
+"b": 1996,
+"s": 2003
+},
+{
+"a": "Video CD (VCD)",
+"n": "Korsan VCD filmler",
+"wp": "Video CD",
+"wl": "en",
+"b": 1997,
+"s": 2005
+},
+{
+"a": "Fiat Tempra",
+"n": "90'ların aile otomobili",
+"wp": "Fiat Tempra",
+"wl": "en",
+"b": 1990,
+"s": 2000
+},
+{
+"a": "Fiat Uno",
+"n": "Küçük ve dayanıklı",
+"wp": "Fiat Uno",
+"wl": "en",
+"b": 1990,
+"s": 2003
+},
+{
+"a": "Swatch",
+"n": "Renkli plastik saatler",
+"wp": "Swatch",
+"wl": "en",
+"b": 1987
+},
+{
+"a": "Nokia 3310",
+"n": "Düşse de kırılmayan telefon",
+"wp": "Nokia 3310",
+"wl": "en",
+"b": 2000,
+"s": 2006
+},
+{
+"a": "Nokia 1100",
+"n": "En çok satan telefon",
+"wp": "Nokia 1100",
+"wl": "en",
+"b": 2003,
+"s": 2008
+},
+{
+"a": "Nokia 6600",
+"n": "Kameralı, oyunlu akıllı telefon",
+"wp": "Nokia 6600",
+"wl": "en",
+"b": 2003,
+"s": 2007
+},
+{
+"a": "Motorola Razr V3",
+"n": "İnce kapaklı moda",
+"wp": "Motorola Razr V3",
+"wl": "en",
+"b": 2004,
+"s": 2008
+},
+{
+"a": "Sony Ericsson K750",
+"n": "Kameralı telefon dönemi",
+"wp": "Sony Ericsson K750",
+"wl": "en",
+"b": 2005,
+"s": 2008
+},
+{
+"a": "Nokia N95",
+"n": "Kayan ekran, GPS",
+"wp": "Nokia N95",
+"wl": "en",
+"b": 2007,
+"s": 2010
+},
+{
+"a": "MSN Messenger",
+"n": "Durum mesajları, titreşimler",
+"wp": "Windows Live Messenger",
+"wl": "en",
+"b": 2000,
+"s": 2012
+},
+{
+"a": "İnternet kafe",
+"n": "Okul çıkışı Counter-Strike",
+"wp": "Internet café",
+"wl": "en",
+"b": 1999,
+"s": 2010
+},
+{
+"a": "Windows XP",
+"n": "Yeşil tepeli duvar kâğıdı",
+"wp": "Windows XP",
+"wl": "en",
+"b": 2002,
+"s": 2012
+},
+{
+"a": "PlayStation 2",
+"n": "Tüm zamanların en çok satan konsolu",
+"wp": "PlayStation 2",
+"wl": "en",
+"b": 2001,
+"s": 2008
+},
+{
+"a": "MP3 çalar",
+"n": "Bin şarkı cebinde",
+"wp": "Portable media player",
+"wl": "en",
+"b": 2003,
+"s": 2010
+},
+{
+"a": "iPod",
+"n": "Beyaz kulaklıklar",
+"wp": "IPod",
+"wl": "en",
+"b": 2002,
+"s": 2010
+},
+{
+"a": "Flash bellek",
+"n": "Disketin yerini aldı",
+"wp": "USB flash drive",
+"wl": "en",
+"b": 2002
+},
+{
+"a": "DVD oynatıcı",
+"n": "Filmler DVD'de",
+"wp": "DVD player",
+"wl": "en",
+"b": 2001,
+"s": 2012
+},
+{
+"a": "Dijital fotoğraf makinesi",
+"n": "Filmsiz fotoğraf",
+"wp": "Digital camera",
+"wl": "en",
+"b": 2003,
+"s": 2013
+},
+{
+"a": "CD yazıcı",
+"n": "Kendi derleme CD'n",
+"wp": "CD-R",
+"wl": "en",
+"b": 2000,
+"s": 2008
+},
+{
+"a": "Fiat Albea",
+"n": "Taksilerin ve ailelerin otomobili",
+"wp": "Fiat Albea",
+"wl": "en",
+"b": 2003,
+"s": 2012
+},
+{
+"a": "Fiat Doblo",
+"n": "Esnafın ve ailenin aracı",
+"wp": "Fiat Doblò",
+"wl": "en",
+"b": 2001
+},
+{
+"a": "BlackBerry",
+"n": "Klavyeli e-posta telefonu",
+"wp": "BlackBerry",
+"wl": "en",
+"b": 2008,
+"s": 2013
+},
+{
+"a": "Facebook",
+"n": "Dürtmeler ve çiftlik oyunları",
+"wp": "Facebook",
+"wl": "en",
+"b": 2008
+},
+{
+"a": "LCD televizyon",
+"n": "Tüplü TV'ye veda",
+"wp": "Liquid-crystal display television",
+"wl": "en",
+"b": 2006
+},
+{
+"a": "iPhone 4",
+"n": "Akıllı telefon çağı",
+"wp": "IPhone 4",
+"wl": "en",
+"b": 2010,
+"s": 2014
+},
+{
+"a": "Samsung Galaxy S3",
+"n": "Android'in yükselişi",
+"wp": "Samsung Galaxy S III",
+"wl": "en",
+"b": 2012,
+"s": 2015
+},
+{
+"a": "WhatsApp",
+"n": "SMS'e veda",
+"wp": "WhatsApp",
+"wl": "en",
+"b": 2012
+},
+{
+"a": "Instagram",
+"n": "Filtreli fotoğraflar",
+"wp": "Instagram",
+"wl": "en",
+"b": 2012
+},
+{
+"a": "iPad",
+"n": "Tablet çağı",
+"wp": "IPad",
+"wl": "en",
+"b": 2010
+},
+{
+"a": "Selfie çubuğu",
+"n": "Herkesin elinde bir çubuk",
+"wp": "Selfie stick",
+"wl": "en",
+"b": 2014,
+"s": 2018
+},
+{
+"a": "PlayStation 4",
+"n": "FIFA akşamları",
+"wp": "PlayStation 4",
+"wl": "en",
+"b": 2013,
+"s": 2021
+},
+{
+"a": "Hoverboard",
+"n": "Kendini dengeleyen kaykay",
+"wp": "Self-balancing scooter",
+"wl": "en",
+"b": 2015,
+"s": 2018
+},
+{
+"a": "Fidget spinner",
+"n": "Stres çarkı çılgınlığı",
+"wp": "Fidget spinner",
+"wl": "en",
+"b": 2017,
+"s": 2018
+},
+{
+"a": "Apple Watch",
+"n": "Bilekte akıllı saat",
+"wp": "Apple Watch",
+"wl": "en",
+"b": 2015
+},
+{
+"a": "Fiat Egea",
+"n": "Yeni dönemin yerli sedanı",
+"wp": "Fiat Tipo (2015)",
+"wl": "en",
+"b": 2015
+},
+{
+"a": "AirPods",
+"n": "Kablosuz beyaz kulaklık",
+"wp": "AirPods",
+"wl": "en",
+"b": 2017
+},
+{
+"a": "Maske",
+"n": "Pandemi günlerinin ayrılmazı",
+"wp": "Surgical mask",
+"wl": "en",
+"b": 2020,
+"s": 2022
+},
+{
+"a": "Zoom",
+"n": "Uzaktan ders ve toplantı",
+"wp": "Zoom Workplace",
+"wl": "en",
+"b": 2020,
+"s": 2022
+},
+{
+"a": "TikTok",
+"n": "Kısa videolar",
+"wp": "TikTok",
+"wl": "en",
+"b": 2020
+},
+{
+"a": "PlayStation 5",
+"n": "Bulunması zor konsol",
+"wp": "PlayStation 5",
+"wl": "en",
+"b": 2020
+},
+{
+"a": "Elektrikli scooter",
+"n": "Kiralık scooterlar",
+"wp": "Electric kick scooter",
+"wl": "en",
+"b": 2020
+},
+{
+"a": "Togg",
+"n": "Türkiye'nin yerli elektrikli otomobili",
+"wp": "Togg T10X",
+"wl": "en",
+"b": 2023
+}
+]

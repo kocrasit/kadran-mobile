@@ -1,0 +1,335 @@
+{
+"aciklama": "Aylık brüt asgari ücret (16 yaş üstü). 'brut' her zaman yeni TL; 2005 öncesi için 'brut_eski_tl' o günün lirasıyla. 1974'ten önce asgari ücret bölgeseldi, ülke çapında tek tutar yok.",
+"kaynaklar": {
+"csgb": "ÇSGB Çalışma Genel Müdürlüğü, Günlük ve aylık asgari ücretler — https://live.csgb.gov.tr/Media/clwb4c0k/gunlukaylikasgari.pdf (1974-2024)",
+"2025": "Alo Maliye, asgari ücret tablosu — https://www.alomaliye.com/asgari-ucret/",
+"2026": "KPMG Vergi, 2026 yılı asgari ücreti açıklandı — https://kpmgvergi.com/yayinlar/mali-bultenler/sosyal-guvenlik/2026-yili-asgari-ucreti-aciklandi/3342"
+},
+"donem": [
+{
+"bas": "1974-07-01",
+"brut_eski_tl": 1200.0,
+"brut": 0.0012
+},
+{
+"bas": "1976-06-01",
+"brut_eski_tl": 1800.0,
+"brut": 0.0018
+},
+{
+"bas": "1978-01-01",
+"brut_eski_tl": 3300.0,
+"brut": 0.0033
+},
+{
+"bas": "1979-05-01",
+"brut_eski_tl": 5400.0,
+"brut": 0.0054
+},
+{
+"bas": "1981-05-01",
+"brut_eski_tl": 10000.0,
+"brut": 0.01
+},
+{
+"bas": "1983-01-01",
+"brut_eski_tl": 16200.0,
+"brut": 0.0162
+},
+{
+"bas": "1984-04-01",
+"brut_eski_tl": 24525.0,
+"brut": 0.024525
+},
+{
+"bas": "1985-10-01",
+"brut_eski_tl": 41400.0,
+"brut": 0.0414
+},
+{
+"bas": "1987-07-01",
+"brut_eski_tl": 74250.0,
+"brut": 0.07425
+},
+{
+"bas": "1988-07-01",
+"brut_eski_tl": 126000.0,
+"brut": 0.126
+},
+{
+"bas": "1989-08-01",
+"brut_eski_tl": 225000.0,
+"brut": 0.225
+},
+{
+"bas": "1990-08-01",
+"brut_eski_tl": 414000.0,
+"brut": 0.414
+},
+{
+"bas": "1991-08-01",
+"brut_eski_tl": 801000.0,
+"brut": 0.801
+},
+{
+"bas": "1992-08-01",
+"brut_eski_tl": 1449000.0,
+"brut": 1.449
+},
+{
+"bas": "1993-08-01",
+"brut_eski_tl": 2497500.0,
+"brut": 2.4975
+},
+{
+"bas": "1994-09-01",
+"brut_eski_tl": 4173750.0,
+"brut": 4.17375
+},
+{
+"bas": "1995-09-01",
+"brut_eski_tl": 8460000.0,
+"brut": 8.46
+},
+{
+"bas": "1996-08-01",
+"brut_eski_tl": 17010000.0,
+"brut": 17.01
+},
+{
+"bas": "1997-08-01",
+"brut_eski_tl": 35437500.0,
+"brut": 35.4375
+},
+{
+"bas": "1998-08-01",
+"brut_eski_tl": 47839500.0,
+"brut": 47.8395
+},
+{
+"bas": "1999-01-01",
+"brut_eski_tl": 78075000.0,
+"brut": 78.075
+},
+{
+"bas": "1999-07-01",
+"brut_eski_tl": 93600000.0,
+"brut": 93.6
+},
+{
+"bas": "2000-01-01",
+"brut_eski_tl": 109800000.0,
+"brut": 109.8
+},
+{
+"bas": "2000-07-01",
+"brut_eski_tl": 118800000.0,
+"brut": 118.8
+},
+{
+"bas": "2001-01-01",
+"brut_eski_tl": 139950000.0,
+"brut": 139.95
+},
+{
+"bas": "2001-07-01",
+"brut_eski_tl": 146947500.0,
+"brut": 146.9475
+},
+{
+"bas": "2001-08-01",
+"brut_eski_tl": 167940000.0,
+"brut": 167.94
+},
+{
+"bas": "2002-01-01",
+"brut_eski_tl": 222000750.0,
+"brut": 222.00075
+},
+{
+"bas": "2002-07-01",
+"brut_eski_tl": 250875000.0,
+"brut": 250.875
+},
+{
+"bas": "2003-01-01",
+"brut_eski_tl": 306000000.0,
+"brut": 306.0
+},
+{
+"bas": "2004-01-01",
+"brut_eski_tl": 423000000.0,
+"brut": 423.0
+},
+{
+"bas": "2004-07-01",
+"brut_eski_tl": 444150000.0,
+"brut": 444.15
+},
+{
+"bas": "2005-01-01",
+"brut_eski_tl": null,
+"brut": 488.7
+},
+{
+"bas": "2006-01-01",
+"brut_eski_tl": null,
+"brut": 531.0
+},
+{
+"bas": "2007-01-01",
+"brut_eski_tl": null,
+"brut": 562.5
+},
+{
+"bas": "2007-07-01",
+"brut_eski_tl": null,
+"brut": 585.0
+},
+{
+"bas": "2008-01-01",
+"brut_eski_tl": null,
+"brut": 608.4
+},
+{
+"bas": "2008-07-01",
+"brut_eski_tl": null,
+"brut": 638.7
+},
+{
+"bas": "2009-01-01",
+"brut_eski_tl": null,
+"brut": 666.0
+},
+{
+"bas": "2009-07-01",
+"brut_eski_tl": null,
+"brut": 693.0
+},
+{
+"bas": "2010-01-01",
+"brut_eski_tl": null,
+"brut": 729.0
+},
+{
+"bas": "2010-07-01",
+"brut_eski_tl": null,
+"brut": 760.5
+},
+{
+"bas": "2011-01-01",
+"brut_eski_tl": null,
+"brut": 796.5
+},
+{
+"bas": "2011-07-01",
+"brut_eski_tl": null,
+"brut": 837.0
+},
+{
+"bas": "2012-01-01",
+"brut_eski_tl": null,
+"brut": 886.5
+},
+{
+"bas": "2012-07-01",
+"brut_eski_tl": null,
+"brut": 940.5
+},
+{
+"bas": "2013-01-01",
+"brut_eski_tl": null,
+"brut": 978.6
+},
+{
+"bas": "2013-07-01",
+"brut_eski_tl": null,
+"brut": 1021.5
+},
+{
+"bas": "2014-01-01",
+"brut_eski_tl": null,
+"brut": 1071.0
+},
+{
+"bas": "2014-07-01",
+"brut_eski_tl": null,
+"brut": 1134.0
+},
+{
+"bas": "2015-01-01",
+"brut_eski_tl": null,
+"brut": 1201.5
+},
+{
+"bas": "2015-07-01",
+"brut_eski_tl": null,
+"brut": 1273.5
+},
+{
+"bas": "2016-01-01",
+"brut_eski_tl": null,
+"brut": 1647.0
+},
+{
+"bas": "2017-01-01",
+"brut_eski_tl": null,
+"brut": 1777.5
+},
+{
+"bas": "2018-01-01",
+"brut_eski_tl": null,
+"brut": 2029.5
+},
+{
+"bas": "2019-01-01",
+"brut_eski_tl": null,
+"brut": 2558.4
+},
+{
+"bas": "2020-01-01",
+"brut_eski_tl": null,
+"brut": 2943.0
+},
+{
+"bas": "2021-01-01",
+"brut_eski_tl": null,
+"brut": 3577.5
+},
+{
+"bas": "2022-01-01",
+"brut_eski_tl": null,
+"brut": 5004.0
+},
+{
+"bas": "2022-07-01",
+"brut_eski_tl": null,
+"brut": 6471.0
+},
+{
+"bas": "2023-01-01",
+"brut_eski_tl": null,
+"brut": 10008.0
+},
+{
+"bas": "2023-07-01",
+"brut_eski_tl": null,
+"brut": 13414.5
+},
+{
+"bas": "2024-01-01",
+"brut_eski_tl": null,
+"brut": 20002.5
+},
+{
+"bas": "2025-01-01",
+"brut_eski_tl": null,
+"brut": 26005.5
+},
+{
+"bas": "2026-01-01",
+"brut_eski_tl": null,
+"brut": 33030.0
+}
+]
+}

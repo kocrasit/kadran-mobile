@@ -1,0 +1,13 @@
+Kadran Wikidata raporu — 2026-11-13T20:44:20.509Z
+Süre: 2250 sn
+
+doganlar: {"kisi":12277,"gun":366}
+vefatlar: {"kisi":3731,"gun":3419}
+olaylar: {"olay":1520,"gun":1297}
+diziler: {"dizi":1321,"tarihli":485}
+filmler: {"film":2729,"gunHassas":654}
+muzik: {"eser":1893,"album":1733,"single":150,"sarki":10}
+
+Hata yok.
+
+Lisans: Wikidata verisi CC0. Görseller Wikimedia Commons; her görselin kendi lisansı vardır, yayına çıkmadan kontrol edilecek.

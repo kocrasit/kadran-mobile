@@ -1,0 +1,22 @@
+{
+  "aciklama": "1950-1979 resmi dolar kuru (1 ABD doları kaç Türk lirası). 'donem' kayıtları sabit kur dönemleri (devalüasyon tarihinden itibaren geçerli); 'yilsonu' kayıtları OECD/FRED yıl değerleri (1 milyon TL kaç dolar verisinden çevrildi, 2 haneye yuvarlandı). 1974-1979 arasında kur sık değişti ve 1979'da birden çok resmi kur vardı; bu yıllar için yıl değeri yaklaşık kabul edilmeli.",
+  "kaynaklar": {
+    "sozcu": "Sözcü, 'Türk lirasının 100 yılı' — https://www.sozcu.com.tr/turk-lirasinin-100-yili-wp7842578",
+    "cnnturk": "CNN Türk, 'Tarihte bugün: 4 Ağustos' — https://www.cnnturk.com/yasam/tarihte-bugun-4-agustos-240295",
+    "fred": "OECD via FRED, CCUSSP01TRA650N — https://fred.stlouisfed.org/data/CCUSSP01TRA650N"
+  },
+  "donem": [
+    { "bas": "1946-09-07", "kur": 2.80, "not": "7 Eylül 1946 devalüasyonu: 1,28 → 2,80", "k": "sozcu" },
+    { "bas": "1958-08-04", "kur": 9.00, "not": "4 Ağustos 1958 devalüasyonu: 2,80 → 9", "k": "cnnturk" },
+    { "bas": "1970-08-10", "kur": 15.00, "not": "Ağustos 1970 devalüasyonu: 9 → 15", "k": "sozcu" }
+  ],
+  "yilsonu": {
+    "1960": 9.02, "1961": 9.02, "1962": 9.02, "1963": 9.02,
+    "1964": 9.04, "1965": 9.04, "1966": 9.04, "1967": 9.04, "1968": 9.04, "1969": 9.04,
+    "1970": 14.93, "1971": 14.15, "1972": 14.15, "1973": 14.15,
+    "1974": 13.99, "1975": 15.15, "1976": 16.67, "1977": 19.44,
+    "1978": 25.25, "1979": 35.35
+  },
+  "yilsonu_kaynak": "fred",
+  "sonraki": { "tarih": "1980-01-24", "once": 47.10, "sonra": 70.00, "not": "24 Ocak kararları: 47,10 → 70", "k": "sozcu" }
+}

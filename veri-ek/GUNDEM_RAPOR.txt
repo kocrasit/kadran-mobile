@@ -1,0 +1,8 @@
+Kadran gündem raporu — 2026-11-13T21:01:37.877Z
+Süre: 735 sn
+
+gunler: 6181 olay (1722 Türkiye ile ilgili), 1950 sonrası. Olay bulunan gün-yıl sayısı: {"1980'lar":855,"1990'lar":956,"2000'lar":816,"2010'lar":361,"2020'lar":202}
+deprem (USGS): 4226 deprem (M4+), 2783 farklı gün, 63 tanesi M6+. 2023-02-06 en büyük: 7.8 (Pazarcik earthquake, Kahramanmaras earthquake sequence)
+youtube: 3742 çalınabilir, 13 sahibi kapatmış, 100 kaldırılmış/gizli
+
+Lisans: Vikipedi metinleri CC BY-SA 4.0 (kaynak gösterilecek); USGS kataloğu kamu malı; YouTube sadece resmi oynatıcıyla çalınır.

@@ -1,0 +1,117 @@
+{
+"aciklama": "Kaynağı belli fiyat noktaları. Fırıncılar odalarının eski arşivi yangında yok olduğu için resmî bir ekmek serisi yok; buradaki her değer bir habere dayanır. Fiyatlar o günün lirasıyla (2005 öncesi eski TL).",
+"kaynaklar": {
+"hurriyet2005": "Hürriyet, 'Ekmek 55 yıl sonra yeniden 30 kuruş' (1 Ocak 2005) — https://www.hurriyet.com.tr/ekonomi/ekmek-55-yil-sonra-yeniden-30-kurus-285485",
+"iha2018": "İHA / Mynet, '1969'dan bu yana işçinin ekmek mücadelesi' (1 Mayıs 2018; Cumhuriyet ve Milliyet arşivleri, DİSK verisi) — https://www.mynet.com/ozel-haber-1969dan-bu-yana-iscinin-ekmek-mucadelesi-180103942198"
+},
+"ekmek": [
+{
+"y": 1950,
+"fiyat": "30 kuruş",
+"gram": 900,
+"k": "hurriyet2005"
+},
+{
+"y": 1957,
+"fiyat": "30 kuruş",
+"gram": 570,
+"k": "hurriyet2005"
+},
+{
+"y": 1959,
+"fiyat": "70 kuruş",
+"gram": 970,
+"k": "hurriyet2005"
+},
+{
+"y": 1962,
+"fiyat": "60 kuruş",
+"gram": 650,
+"k": "hurriyet2005"
+},
+{
+"y": 1965,
+"fiyat": "70 kuruş",
+"gram": 620,
+"k": "hurriyet2005"
+},
+{
+"y": 1969,
+"fiyat": "80 kuruş",
+"k": "iha2018"
+},
+{
+"y": 1970,
+"fiyat": "1 lira",
+"gram": 620,
+"k": "hurriyet2005"
+},
+{
+"y": 1994,
+"fiyat": "4.000 lira",
+"k": "iha2018"
+},
+{
+"y": 2005,
+"fiyat": "30 kuruş",
+"gram": 200,
+"k": "hurriyet2005",
+"not": "İstanbul, normal ekmek (yeni kuruş)"
+}
+],
+"ekmek_dakika": {
+"aciklama": "Asgari ücretli bir işçinin bir ekmek alabilmek için çalışması gereken dakika",
+"k": "iha2018",
+"yil": {
+"1969": 14.7,
+"1971": 17.5,
+"1972": 14.4,
+"1973": 21.6,
+"1974": 18,
+"1975": 22.5,
+"1976": 18,
+"1977": 24,
+"1978": 8.1,
+"1979": 8,
+"1980": 20,
+"1981": 15.1,
+"1982": 23.7,
+"1983": 16.6,
+"1984": 13.2,
+"1985": 11,
+"1986": 22,
+"1987": 17.4,
+"1988": 12.9,
+"1989": 19.2,
+"1990": 14.8,
+"1991": 9.4,
+"1992": 14.9,
+"1993": 12.9,
+"1994": 10.3,
+"1995": 19.1,
+"1996": 12.6,
+"1997": 9.1,
+"1998": 18,
+"1999": 10.3,
+"2000": 7.2,
+"2001": 9.6,
+"2002": 10.7,
+"2003": 9.7,
+"2004": 7.2,
+"2005": 7.2,
+"2006": 7.1,
+"2007": 6.4,
+"2008": 6.3,
+"2009": 6.2,
+"2010": 5.7,
+"2011": 10.3,
+"2012": 9.7,
+"2013": 10.5,
+"2014": 9.5,
+"2015": 8.5,
+"2016": 6.6,
+"2017": 7.6,
+"2018": 6.6
+}
+}
+}
